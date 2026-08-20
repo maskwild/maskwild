@@ -1,4 +1,4 @@
-# 👋 Hi, Im MaskWild！
+# 👋 Hi, Im MaskWild
 
 极简全栈 · PHP 为核 · HTML/CSS 优先
 
